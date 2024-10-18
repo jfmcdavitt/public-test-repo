@@ -1,4 +1,4 @@
-# Adventure Game: The Quest for Snacks!
+# Adventure Game: The Quest for Snacks! (Made entirely with ChatGPT)
 
 Welcome to **Adventure Game: The Quest for Snacks!** 🏰✨
 
